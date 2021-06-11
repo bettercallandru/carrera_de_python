@@ -1,2 +1,5 @@
-#carpeta de debuggin
+# carpeta de debugging
 .vscode
+
+# dependencias de debugging
+__pycache__

@@ -1,4 +1,4 @@
-# Carrera de JavaScript
+# Carrera de Python
 
 ## Descripcion
 

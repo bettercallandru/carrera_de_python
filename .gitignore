@@ -1,5 +1,6 @@
 # carpeta de debugging
 .vscode
 
+librerias/*
 # dependencias de debugging
 __pycache__
